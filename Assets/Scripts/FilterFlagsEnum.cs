@@ -25,7 +25,7 @@ namespace GameFinder
 
     public static class Extensions
     {
-        public static string Bits(this FilterFlags value, int pad = 8)
+        public static string Bits(this FilterFlags value, int pad = 10)
         {
             return Bits((int)value, pad);
         }
