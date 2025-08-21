@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7ade510f63dd6394a86d795ff4ae1ffa
+guid: 2b303e16d9c20d042a11dd2f4eb4d6c0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1347843499961011006
-    second: The witness_0
+      213: 3355659318336834057
+    second: Creativerse_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: The witness_0
+      name: Creativerse_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 254
-        height: 256
+        width: 225
+        height: 225
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2c4310c5a7f7b4de0800000000000000
-      internalID: -1347843499961011006
+      spriteID: 90a42b8fe52b19e20800000000000000
+      internalID: 3355659318336834057
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      The witness_0: -1347843499961011006
+      Creativerse_0: 3355659318336834057
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
